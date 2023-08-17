@@ -59,4 +59,4 @@
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-%23FF3366.svg?style=for-the-badge&logo=adobe%20indesign&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-%23D83B01.svg?style=for-the-badge&logo=microsoft%20office&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Genially](https://img.shields.io/badge/Genially-%23
+![Genially](https://img.shields.io/badge/Genially-%23E1463E.svg?style=for-the-badge&logo=genially&logoColor=white)
