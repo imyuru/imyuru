@@ -7,6 +7,7 @@
 ---
 <div align="center">
 
+
 # 💫 About Me:
 🔒 I'm a cybersecurity student with a passion for software development in various programming languages.
 
