@@ -1,4 +1,4 @@
-[![6887687.png](https://i.postimg.cc/1tCLZJh5/6887687.png)](https://postimg.cc/WFZ9Gm1Q)
+[![68876872.png](https://i.postimg.cc/7Z9mXHVB/68876872.png)](https://postimg.cc/JsyNzWSJ)
 <h3 align="center">
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
