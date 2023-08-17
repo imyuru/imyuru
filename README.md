@@ -23,7 +23,7 @@
 
 ⚡ Fun fact: Over 70% of web pages have SQL injection vulnerabilities.
 
-## 🌐 Languages
+## 📗 Languages
 ![Spanish (Native)](https://img.shields.io/badge/Spanish-🟢%20Native-brightgreen?style=for-the-badge)
 ![English (A2)](https://img.shields.io/badge/English-🟡%20A2-yellow?style=for-the-badge)
 ![Japanese (N5)](https://img.shields.io/badge/Japanese-🔴%20N5-red?style=for-the-badge)
