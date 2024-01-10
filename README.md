@@ -15,7 +15,7 @@
 
 📚 I am dedicated to studying and developing projects in the field of cybersecurity and software development.
 
-🌱 Currently, I'm learning Django and NextJS.
+🌱 Currently, I'm learning Django,NextJS and Typescript.
 
 💬 Feel free to ask me anything; I'm here to help.
 
